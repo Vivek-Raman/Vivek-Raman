@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+If this pointless readme bothers you, do me a favour and bother me to get around to filling it! 
+
 <!--
 **Vivek-Raman/Vivek-Raman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
